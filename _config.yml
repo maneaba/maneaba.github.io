@@ -1,7 +1,6 @@
 # Site settings
 title:          Maneaba
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
 url:            "https://maneaba.github.io"
 
 # Author
